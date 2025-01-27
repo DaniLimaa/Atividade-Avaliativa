@@ -17,17 +17,31 @@ header nav{
     padding: 25px 0;
 }
 
-.logo>img{
-    display: flex;
-    max-width: 200px;
-    width: 180px;
-    position: relative;
-    right: 110px;
-    cursor: pointer;
-}
-
 .menu, .avatar{
     list-style: none;
     display: flex;
-    /* gap: 20px; */
+    gap: 10px;
+}
+
+.avatar{
+    font-size: 23px
+}
+
+.logo{
+    font-weight: bold;
+    color: #070049;
+    cursor: pointer;
+}
+
+.menu li a, .avatar li a{
+    text-decoration: none;
+    color: #070049;
+    padding: 8px;
+    border-radius: 6px;
+}
+
+.menu li a:hover, .avatar li a:hover{
+    transform: translateY(8px);
+    background-color: #070049;
+    color: white;
 }
