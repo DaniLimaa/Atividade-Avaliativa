@@ -37,11 +37,11 @@ header nav{
     text-decoration: none;
     color: #070049;
     padding: 8px;
-    border-radius: 6px;
+    /* border-radius: 6px; */
 }
 
 .menu li a:hover, .avatar li a:hover{
     transform: translateY(8px);
-    background-color: #070049;
-    color: white;
+    /* background-color: #070049; */
+    color: orange;
 }
