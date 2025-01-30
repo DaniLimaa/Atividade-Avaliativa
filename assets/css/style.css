@@ -17,31 +17,42 @@ header nav{
     padding: 25px 0;
 }
 
+.logo{
+    text-decoration: none;
+    color: #070049;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.avatar li a{
+    font-size: 23px;
+}
+
 .menu, .avatar{
     list-style: none;
     display: flex;
-    gap: 10px;
-}
-
-.avatar{
-    font-size: 23px
-}
-
-.logo{
-    font-weight: bold;
-    color: #070049;
-    cursor: pointer;
+    gap: 8px;
 }
 
 .menu li a, .avatar li a{
     text-decoration: none;
     color: #070049;
     padding: 8px;
-    /* border-radius: 6px; */
+    border-radius: 8px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .menu li a:hover, .avatar li a:hover{
-    transform: translateY(8px);
-    /* background-color: #070049; */
+    transition: transform translateY(8px);
     color: orange;
 }

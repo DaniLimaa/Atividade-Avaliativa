@@ -1,0 +1,57 @@
+#modelos figure{
+    background-color: #D9D9D9;
+    padding: 15px 0;
+    width: 100%;
+    max-width: 250px;
+    height: 368px;
+    border-radius: 24px;
+    text-align: center;
+}
+
+#modelos .foto-modelos{
+    height: 100%;
+    width: 100%;
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 15px;
+    object-fit: cover;
+}
+
+#modelos figcaption h4{
+    padding: 5px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: start;
+    height: 40px;
+}
+
+#modelos figcaption p{
+    text-align: justify;
+    
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#modelos figcaption .descricao-modelos{
+    font-size: 15px;
+    line-height: 1.4;
+}
+
+#modelos figcaption{
+    padding: 10px 10px 5px 10px;
+}
+
+.modelos-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#modelos{
+    margin-top: 70px;
+}
