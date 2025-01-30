@@ -2,13 +2,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 10px;
 }
 
 #banner img {
     width: 100%;
-    /* width: 1920px;
-    height: 1080px;
-    object-fit: cover; */
 }
 
 .carrossel-container{
@@ -24,9 +22,6 @@
 
 .carrossel {
     display: flex;
-    /* width: 1920px;
-    height: 1080px;
-    object-fit: cover; */
 
     transition: transform 1s ease-in-out;
 }
