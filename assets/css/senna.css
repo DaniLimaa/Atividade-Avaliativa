@@ -21,7 +21,7 @@
     height: 60px;
 }
 
-#senna figcaption .biografia-senna, .biografia-senna2{
+#senna figcaption .biografia-senna{
     max-width: 436px;
     font-size: 16px;
     line-height: 19.5px;
@@ -29,6 +29,16 @@
     text-underline-position: from-font;
 }
 
-#senna figcaption h3, .biografia-senna, .biografia-senna2{
+#senna figcaption h3, .biografia-senna{
+    margin-top: 20px;
     padding: 10px;
+}
+
+#senna figcaption p{
+    display: -webkit-box;
+    -webkit-line-clamp: 579px;
+    -webkit-box-orient: vertical;
+    
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
