@@ -1,0 +1,54 @@
+.nome-form{
+    width: 503px;
+    height: 36px;
+    border-radius: 10px;
+    border: none;
+
+    background-color: #d9d9d9;
+}
+
+.telefone-form{
+    width: 315px;
+    height: 34px;
+    border-radius: 10px;
+    border: none;
+    padding: 0 ;
+
+    background-color: #d9d9d9;
+}
+
+.idade-form{
+    width: 176px;
+    height: 34px;
+    border-radius: 10px;
+    border: none;
+
+    background-color: #d9d9d9;
+    margin-top: 10px;
+}
+
+.email-form{
+    width: 503px;
+    height: 36px;
+    border-radius: 10px;
+    border: none;
+
+    background-color: #d9d9d9;
+    margin-top: 10px;
+}
+
+.problema-form{
+    width: 503px;
+    height: 189px;
+    border-radius: 10px;
+    border: none;
+
+    background-color: #d9d9d9;
+
+    margin-top: 10px;
+}
+
+.mapa{
+    width: 403px;
+    height: 382px;
+}

@@ -9,7 +9,7 @@
     height: 676px;
     width: 100%;
     max-width: 461px;
-    max-height: 676px;
+    min-height: 676px;
     border-radius: 5px;
     object-fit: cover;
 }
@@ -32,13 +32,4 @@
 #senna figcaption h3, .biografia-senna{
     margin-top: 20px;
     padding: 10px;
-}
-
-#senna figcaption p{
-    display: -webkit-box;
-    -webkit-line-clamp: 579px;
-    -webkit-box-orient: vertical;
-    
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
