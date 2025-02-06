@@ -1,14 +1,29 @@
+#mapaFormulario .mapaFormulario-container{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+}
+
+#mapaFormulario fieldset h3{
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
 .nome-form{
     width: 503px;
     height: 36px;
     border-radius: 10px;
     border: none;
+    margin-bottom: 5px;
 
     background-color: #d9d9d9;
 }
 
 .telefone-form{
-    width: 315px;
+    width: 323px;
     height: 34px;
     border-radius: 10px;
     border: none;
@@ -22,6 +37,7 @@
     height: 34px;
     border-radius: 10px;
     border: none;
+    margin-bottom: 5px;
 
     background-color: #d9d9d9;
     margin-top: 10px;
@@ -32,6 +48,7 @@
     height: 36px;
     border-radius: 10px;
     border: none;
+    margin-bottom: 5px;
 
     background-color: #d9d9d9;
     margin-top: 10px;
