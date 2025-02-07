@@ -38,11 +38,3 @@
     position: absolute;
     top: 50%;
 }
-
-.carrossel-container>button.prev{
-    left: 10px;
-}
-
-.carrossel-container>button.next{
-    right: 10px;
-}
