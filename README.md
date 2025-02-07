@@ -97,3 +97,25 @@ esta colocando o container do carrossel para ocupar 100% do espaço e a tag "MAX
 ![alt text](./assets/img/imagens-documentação/css/carrossel/carrossel.png)
 
 Está deixando a class "carrossel" flexível e a tag "transition: transform" faz que quando troque a imagem faça uma animação passando a imagem.
+
+---
+## ***SENNA.CSS***
+
+![alt text](./assets/img/imagens-documentação/css/senna/sennaFigure.png)
+
+Está deixando todo o "figure" flexível, as tags "align-itens: center, justify-content: center" estão alinhando os elementos ao centro da tela e a tag "flex-direction: row" está fazendo que todos os elementos fique apenas na direção de uma linha.
+
+![alt text](./assets/img/imagens-documentação/css/senna/sennaFoto.png)
+
+Está deixando a imagem com uma altura de 676px e a largura de 100% com a tag "max-width: 461px" limitando a largura em 461px e tag "object-fit: cover" faz que quando a imagem diminua de tamanho ela nao perca suas proporções.
+
+![alt text](./assets/img/imagens-documentação/css/senna/sennaFigCaptionH3.png)
+
+A tag "font-size" está mudando o tamanho da fonte para 48px, "font-weight" está mudando a intensidade da cor da fonte para 700, "text-align" está fazendo que o titulo fique ao lado esquerdo, e o "height" está deixando com uma altura de 60px.
+
+![alt text](./assets/img/imagens-documentação/css/senna/sennaFigCaptionBiografia.png)
+
+O "max-width" faz com que o texto nao ultrapasse a largura de 436px, "font-size" está deixando a fonte com o tamanho de 16px,
+"line-height" faz com que a altura da linha seja 19.5px e o "text-align: justify" faz que o ocupe todo o espaço da linha.
+
+
