@@ -163,3 +163,18 @@ Esta deixando o tamanho da fonte em 32px e a intensidade da cor da fonte em 600p
 ![alt text](./assets/img/imagens-documentação/css/mapaFomrulario/mapaFormulario.png)
 
 Esse conjunto inteiro de código está mudando o altura e a largura dos campos do formulário, tirando as bordas pretas que vem junto com o campo e alterando a cor de fundo, arredondando as bordas em 10px e dando um espaçamento de 5px entre eles.
+
+---
+## ***FOOTER.CSS***
+
+![alt text](./assets/img/imagens-documentação/css/footer/rodape.png)
+
+Esta mudando a cor do footer para #D9D9D9, dando um espaço de 50px da seção de cima, e colocando um padding de 10px em cima e 20px embaixo.
+
+![alt text](./assets/img/imagens-documentação/css/footer/rodapeUl.png)
+
+Esta tirando os pontos da lista dos elementos do footer, deixando as listas flexíveis e alinhando elas no centro.
+
+![alt text](./assets/img/imagens-documentação/css/footer/menuRodape.png)
+
+Esta mudando a intensidade da cor da fonte para 700.
