@@ -118,4 +118,33 @@ A tag "font-size" está mudando o tamanho da fonte para 48px, "font-weight" est�
 O "max-width" faz com que o texto nao ultrapasse a largura de 436px, "font-size" está deixando a fonte com o tamanho de 16px,
 "line-height" faz com que a altura da linha seja 19.5px e o "text-align: justify" faz que o ocupe todo o espaço da linha.
 
+---
+## ***MODELOS.CSS***
 
+![alt text](./assets/img/imagens-documentação/css/modelos/modelosFigure.png)
+
+Está mudando a cor do fundo do figure e colocando um padding de 15px em cima e embaixo, "width" está deixando o tamanho do figure em 100% e limitando o tamanho máximo em 250px, "height" está o tamanho em 368px de altura, "border-radius" está arredondando as bordas do figure em 24px e alinhando o texto no meio.
+
+![alt text](./assets/img/imagens-documentação/css/modelos/modelosFoto.png)
+
+Está deixando a altura e a largura em 100% do espaço disponível, "max-width e max-height" estão limitando o espaço disponível em 200px, "border-radius" está arredondando a borda em 15px e o "object-fit" está mantendo as proporções da imagem.
+
+![alt text](./assets/img/imagens-documentação/css/modelos/modelosFigCaptionH4.png)
+
+Está colocando um padding de 5px de cada lado, tirando a margem de baixo da imagem, "font-size" está alterando o tamanho da fonte para 18px, "font-weight" está colocando a intensidade da cor da fonte em 800 e "height" está deixando o tamanho em 40.
+
+![alt text](./assets/img/imagens-documentação/css/modelos/modelosFigCaptionP.png)
+
+O "text-align: justify" está fazendo que a escrita preencha toda a linha, esse conjunto de tags "webkit-box overflow e text-overflow" está escondendo o restante do texto que passou de 3 linhas.
+
+![alt text](./assets/img/imagens-documentação/css/modelos/modelosFigCaptionDescricao.png)
+
+Esta mudando o tamanho da fonte para 15 e colocando o tamanho da linha em 1.4.
+
+![alt text](./assets/img/imagens-documentação/css/modelos/modelosFigCaption.png)
+
+Esta colocando um espaçamento de cada lado da descrição do modelo
+
+![alt text](./assets/img/imagens-documentação/css/modelos/modelosContainer.png)
+
+Está deixando flexível, alinhando os itens ao centro e colocando um espaçamento entre os cards, o "margin-top" está colocando um espaçamento entre a seção de cima de 40px.
