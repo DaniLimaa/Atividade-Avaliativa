@@ -148,3 +148,18 @@ Esta colocando um espaçamento de cada lado da descrição do modelo
 ![alt text](./assets/img/imagens-documentação/css/modelos/modelosContainer.png)
 
 Está deixando flexível, alinhando os itens ao centro e colocando um espaçamento entre os cards, o "margin-top" está colocando um espaçamento entre a seção de cima de 40px.
+
+---
+## ***MAPAFORMULARIO.CSS***
+
+![alt text](./assets/img/imagens-documentação/css/mapaFomrulario/mapaFormularioContainer.png)
+
+O "margin-top" está dando um espaçamento de 40px da seção de cima, "display: flex" está deixando o container flexível, as tags "align-itens: center e justify-content:center" estão deixando o formulário e o mapa alinhados ao centro da tela e o "gap" está dando um espaçamento de 150px entre o mapa e o formulário.
+
+![alt text](./assets/img/imagens-documentação/css/mapaFomrulario/mapaFormularioFieldSet.png)
+
+Esta deixando o tamanho da fonte em 32px e a intensidade da cor da fonte em 600px "margin-bottom" está deixando um espaço de 8px entre o formulário.
+
+![alt text](./assets/img/imagens-documentação/css/mapaFomrulario/mapaFormulario.png)
+
+Esse conjunto inteiro de código está mudando o altura e a largura dos campos do formulário, tirando as bordas pretas que vem junto com o campo e alterando a cor de fundo, arredondando as bordas em 10px e dando um espaçamento de 5px entre eles.
