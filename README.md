@@ -82,3 +82,14 @@ Esse condigo esta mudando a cor de letra do menu do cabeçalho e do ícone do pe
 ---
 ## ***CARROSSEL.CSS***
 
+![alt text](./assets/img/imagens-documentação/css/carrossel/banner.png)
+
+Esta deixando a seção inteira do banner flexível, alinhando todas as imagens no centro e colocando um espaçamento de 10px do conteúdo abaixo do carrossel.
+
+![alt text](./assets/img/imagens-documentação/css/carrossel/bannerImg.png)
+
+Esta deixando a imagem com 100% do tamanho disponível
+
+![alt text](./assets/img/imagens-documentação/css/carrossel/carrosselContainer.png)
+
+esta criando um limite de 1920px que a imagem pode ocupar, colocou uma borda de 2px na cor de #C9C9C9
