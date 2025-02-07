@@ -92,4 +92,8 @@ Esta deixando a imagem com 100% do tamanho disponível
 
 ![alt text](./assets/img/imagens-documentação/css/carrossel/carrosselContainer.png)
 
-esta criando um limite de 1920px que a imagem pode ocupar, colocou uma borda de 2px na cor de #C9C9C9
+esta colocando o container do carrossel para ocupar 100% do espaço e a tag "MAX-WIDTH" está criando um limite de 1920px que a imagem pode ocupar, colocou uma borda de 2px na cor de #C9C9C9 e arredondando as bordas em 10px, a tag "OVERFLOW: HIDDEN" está fazendo que todas as outras imagens que ultrapassem esse limite fiquem escondidas e o "POSITION: RELATIVE" está deixando as imagens em so uma direção.
+
+![alt text](./assets/img/imagens-documentação/css/carrossel/carrossel.png)
+
+Está deixando a class "carrossel" flexível e a tag "transition: transform" faz que quando troque a imagem faça uma animação passando a imagem.
